@@ -5,8 +5,7 @@
 - **Kategori:** Sosial
 - **Penulis:** Adnanbootnt17
 - **GitHub:** [https://github.com/Adnanbootnt17](https://github.com/Adnanbootnt17)
-- **Discord ID:** bootadnan6647
-
+- **Discord ID:** [bootadnan6647](https://discordapp.com/users/bootadnan6647)
 ## Deskripsi Singkat
 ChainCircle adalah platform media sosial berbasis Soundness Layer dengan fokus pada **komunitas on-chain**.  
 Pengguna dapat membuat postingan, berinteraksi (like, komentar), dan membangun reputasi yang tervalidasi secara kriptografis menggunakan identitas & zkProofs.  
